@@ -1,0 +1,4 @@
+name: XPBottles
+version: '1.0.0'
+main: com.github.harvestminer.xpbottles.XPBottles
+api-version: '1.21'
